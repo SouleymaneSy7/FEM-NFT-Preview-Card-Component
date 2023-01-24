@@ -51,8 +51,8 @@ This is the Screenshot of the projects a made!
 
 There is the link of the projects:
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-OTqo6JL-X4)
+- Live Site URL: [live site URL here](https://fem-nft-preview-card-component-vert.vercel.app/)
 
 ## Author
 
